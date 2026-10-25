@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>E-JURNAL PENGAWAS MKPS SMA KCD 1</title>
+  <title>MONEV TKA SMA KCD 1</title>
   <link rel="icon" href="Untitled Document.jpg"
     " />
   <style>
@@ -34,7 +34,7 @@
   <div class="iframe-container">
     <iframe
       id="app"
-      src="https://script.google.com/macros/s/AKfycbydOjohNiVMZSO5HlPpjFbHFKU3dkvGSj48lLQ9Vs1zucBFeJDl2ojRSGv5hrmgbr5NBA/exec"
+      src="https://script.google.com/macros/s/AKfycbzouZaG016Jd_1NHVlbIPS6Sr_bIw2lbXuS_qqypI_d0luQZ0wS2UVgkVnFhNeMhHABaQ/exec"
       scrolling="yes"
       allowfullscreen="true"
       webkitallowfullscreen="true"
